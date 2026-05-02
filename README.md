@@ -1,108 +1,89 @@
-# 🌱 Vivek Bharadwaj Aryasomayajula
+# ⚡ Vivek Bharadwaj Aryasomayajula  
 
-## Energy Analyst | Business Analytics | Machine Learning & Forecasting | CRM & Data Operations
+### Energy Analytics | Market Modelling | Forecasting  
 
-Hi! I’m Vivek — a Business Analytics graduate student at Macquarie University with a strong foundation in Power Engineering, hands-on experience in CRM/ERP operations, and a deep passion for Energy Market Analytics.
+---
 
-My work blends energy-sector knowledge, data-driven modelling, and AI/ML techniques to build forecasting tools, dashboards, and real-world decision-support solutions. I’m actively working toward roles such as Energy Analyst, Operational Forecasting Analyst, and Market Analytics Consultant.
+## 👋 About Me  
 
-### ⚡️ What I’m Focused On Right Now
+I am an Energy Market Analyst focused on the Australian National Electricity Market (NEM), currently working as a Research Assistant at the Transforming Energy Markets (TEM) Research Centre.  
 
-- Building a full Electricity Demand Forecasting pipeline using AEMO data (ARIMA, LSTM, XGBoost)
+My work combines **energy market understanding, data engineering, and machine learning** to build forecasting models, analyse price behaviour, and support decision-making.  
 
-- Conducting case studies on Demand–Supply fundamentals in the Australian NEM
+---
 
-- Developing an Energy X AI portfolio with supervised/unsupervised ML models
+## 💼 Professional Experience  
 
-- Publishing dashboards and insights in Power BI & Qlik Sense
+**🔬 Research Assistant**  
+*Transforming Energy Markets (TEM) Research Centre | Mar 2026 – Present*  
+- Maintain and update large-scale electricity market datasets using Python & SQL  
+- Handle custom AEMO data requests (extraction, transformation, validation)  
+- Develop Power BI dashboards for market research and policy insights  
+- Ensure data governance, access control, and compliance  
 
-- Enhancing my skills in Big Data (MapReduce, R-tree, Skyline queries)
+**💻 ICT Business Analyst**  
+*CentraHub Pvt Ltd | Nov 2022 – Jun 2024*  
+- Automated workflows using SQL, improving operational efficiency  
+- Built KPI dashboards across multiple regions  
+- Designed analytics-driven business processes  
 
-### Applying data storytelling to turn models into business insights
+**⚙️ Senior Project Engineer – Energy Systems**  
+*Indian Immunologicals Pvt Ltd | Sep 2020 – Nov 2022*  
+- Optimised HVAC and energy systems for efficiency improvements  
+- Conducted performance analysis of industrial energy systems  
+- Worked with SCADA/PLC systems for monitoring and validation  
 
-## 🔥 Featured Projects (Energy X AI)
-### ⚡ Electricity Demand Forecasting – AEMO NSW
-ARIMA • Linear Regression • XGBoost • LSTM • Feature Engineering • Python
-📊 Demand modelling using historical AEMO operational demand
-📉 Price & renewable share correlation
-📈 Model comparison (RMSE, cross-validation)
-🧠 Includes notebook + pipeline + plots + business insights
+---
 
-### 🌞 Renewable Integration & Grid Stability Analysis
-Energy mix modelling • Scenario forecasting • Variability impact
-Analysing the effect of increasing rooftop solar & wind on demand curves, volatility, and reliability.
-### 📈 NEM Market Behaviour: Demand–Supply Fundamentals
-Case study series with AEMO Quarterly Reports
-Understanding marginal cost pricing, constraint binding, generation mix shifts, and regional demand patterns.
+## 🚀 Energy Analytics Portfolio  
 
-### 📦 Additional Portfolio Projects
-- 🔮 Student Retention & Progression – MQBS
-- Predictive modelling (Logistic Regression, Clustering), dashboard insights, and actionable retention strategy.
-- 🚗 Car Price Prediction – Kaggle Competition (Top Performance)
-- Gradient boosting, stacking models, hyperparameter tuning, and Kaggle submissions.
-- In-house bot for CRM-style event workflows. Includes UML diagrams and backend logic.
+| 📌 Project | 🧠 Description | 🎯 Focus Area | 📊 Status |
+|----------|---------------|--------------|----------|
+| Market Fundamentals & Price Drivers | RRP analysis using demand, PV, supply imbalance | Price Formation | 🟡 In Progress |
+| Electricity Demand Forecasting | ARIMA → XGBoost → LSTM pipeline | Forecasting | 🟡 In Progress |
+| BESS Trading Strategy (D-1) | Price-based charge/discharge logic | Trading Analytics | 🟡 In Progress |
+| Renewable Impact Analysis | Solar & wind impact on demand curves | Grid Behaviour | 🟡 In Progress |
+| Volatility & Risk Analysis | Price spikes and risk pattern detection | Risk Analytics | 🟡 In Progress |
+| AEMO NEMWeb Data Pipeline | Data extraction, cleaning, PostgreSQL loading | Data Engineering | 🟢 Completed |
+| Electricity Demand Forecasting (Baseline) | ARIMA & XGBoost models | Forecasting | 🟢 Completed |
+| Electricity Price Forecasting | LSTM-based price modelling | Price Behaviour | 🟢 Completed |
+| Extreme Weather Market Analysis | Bushfire impact on demand & supply | Risk Insights | 🟢 Completed |
+| Energy Performance Analysis | Sydney Airport demand case study | Operational Insights | 🟢 Completed |
+| Student Retention Modelling | Classification & clustering | Business Analytics | 🟢 Completed |
+| Car Price Prediction (Kaggle) | Regression & ensemble models | Machine Learning | 🟢 Completed |
 
-### 🌐 CRM & Data Operations Projects
+---
 
-Process automation, Salesforce-style CRM workflows, data pipelines, asset tracking, and procurement insights.
+## 🎓 Education & Certifications  
 
-### 🧠 Technical Skills
+- 🎓 Master of Business Analytics – Macquarie University  
+- ⚡ Bachelor of Power Engineering  
+- 📘 Australian Energy Market Operator (AEMO) – NEM Foundations Certification  
+- ⚙️ PLEXOS Cloud Modelling 
 
-- Programming & Modelling
-- Python (Pandas, NumPy, Scikit-Learn, Statsmodels, TensorFlow)
-- Machine Learning: Regression, Classification, Trees, XGBoost, Clustering, PCA
-- Time Series Forecasting: ARIMA, SARIMA, LSTM, Prophet
-  
-#### Energy Market Analytics
+---
 
-- AEMO NEM Data
-- Dispatch engine (NEMDE) fundamentals
-- Spot pricing, interconnector flows, FCAS, constraint analysis
-- Operational demand forecasting
+## 🛠️ Technical Skills  
 
-### Data Tools
+**⚡ Energy Analytics**  
+AEMO NEM Data • RRP • Demand • PV • FCAS • Price Volatility  
 
-- Power BI, Qlik Sense
-- SQL (joins, CTEs, window functions, optimization)
-- MongoDB
-- Git/GitHub (version control)
-- Big Data & Cloud
-- MaReduce (mrjob), EMR concepts
-- R-Tree indexing, Skyline queries, distributed design
+**💻 Programming & Modelling**  
+Python (Pandas, NumPy, XGBoost, LSTM) • SQL  
 
-### Business & CRM
+**📊 Data & Visualisation**  
+Power BI • Tableau • PostgreSQL  
 
-- Requirement analysis, process mapping
-- CRM implementation workflows
-- Stakeholder communication
+---
 
-### 🎓 Education & Certifications
+## 📫 Contact  
 
-- Master of Business Analytics – Macquarie University (Ongoing)
-- Bachelor of Power Engineering
-- AEMO – NEM Foundations Certification
-- CFI – Financial Modelling & Valuation (Excel)
-- Coursework in Predictive Analytics, AI in Business, Big Data & Cloud, Energy Systems
+- 💼 LinkedIn: https://www.linkedin.com/in/vivek-energy-analytics  
+- 📧 Email: vivek.aryasomayajula@gmail.com  
+- 💻 GitHub: https://github.com/Vivekarya05  
 
-### 📣 What I’m Looking For
+---
 
-I’m actively seeking Internship / Part-Time / Graduate roles in:
+## ⚡ Closing Note  
 
-- Energy Analytics
-- Market Operations
-- Forecasting & Modelling
-- Business Analytics
-- CRM/ICT Analyst roles
-- Research Assistant roles
-
-### 📫 Contact Me
-
-- LinkedIn: www.linkedin.com/in/vivek-energy-analytics
-
-- Email: vivek.aryasomayajula@gmail.com
-
-- GitHub: You’re already here 🚀
-
-### 🌟 Personal Philosophy
-
-"Analytics should not just predict — it should guide decisions, improve reliability, and support Australia’s clean energy transition
+> Turning electricity market data into **forecasting models, trading insights, and decision-support systems**.
