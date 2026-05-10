@@ -37,21 +37,24 @@ My work combines **energy market understanding, data engineering, and machine le
 
 ## 🚀 Energy Analytics Portfolio  
 
+## 📂 Projects Portfolio
+
 | 📌 Project | 🧠 Description | 🎯 Focus Area | 📊 Status |
 |----------|---------------|--------------|----------|
+| **NEM Market Price Drivers & Decision Intelligence System** | Integrated market intelligence platform combining price behaviour, demand, renewable impact, volatility, and trading analytics using AEMO NEM data | Energy Market Intelligence | 🟡 In Progress |
 | Market Fundamentals & Price Drivers | RRP analysis using demand, PV, supply imbalance | Price Formation | 🟡 In Progress |
 | Electricity Demand Forecasting | ARIMA → XGBoost → LSTM pipeline | Forecasting | 🟡 In Progress |
 | BESS Trading Strategy (D-1) | Price-based charge/discharge logic | Trading Analytics | 🟡 In Progress |
 | Renewable Impact Analysis | Solar & wind impact on demand curves | Grid Behaviour | 🟡 In Progress |
 | Volatility & Risk Analysis | Price spikes and risk pattern detection | Risk Analytics | 🟡 In Progress |
-| AEMO NEMWeb Data Pipeline | Data extraction, cleaning, PostgreSQL loading | Data Engineering | 🟢 Completed |
-| Electricity Demand Forecasting (Baseline) | ARIMA & XGBoost models | Forecasting | 🟢 Completed |
-| Electricity Price Forecasting | LSTM-based price modelling | Price Behaviour | 🟢 Completed |
-| Extreme Weather Market Analysis | Bushfire impact on demand & supply | Risk Insights | 🟢 Completed |
-| Energy Performance Analysis | Sydney Airport demand case study | Operational Insights | 🟢 Completed |
-| Student Retention Modelling | Classification & clustering | Business Analytics | 🟢 Completed |
-| Car Price Prediction (Kaggle) | Regression & ensemble models | Machine Learning | 🟢 Completed |
-
+| AEMO NEMWeb Data Pipeline | Automated extraction, parsing, validation, and PostgreSQL loading of AEMO NEM market datasets | Data Engineering | 🟢 Completed |
+| **NEM Market Price Drivers & Decision Intelligence System** | Baseline analytics framework integrating forecasting, trading insights, renewable analysis, and market intelligence workflows | Energy Market Intelligence | 🟢 Completed (Baseline Version) |
+| Electricity Demand Forecasting (Baseline) | ARIMA & XGBoost demand forecasting models using AEMO operational demand data | Forecasting | 🟢 Completed |
+| Electricity Price Forecasting | LSTM-based electricity price prediction and temporal pattern analysis | Price Behaviour | 🟢 Completed |
+| Extreme Weather Market Analysis | Bushfire impact analysis on electricity demand, generation, and market behaviour | Risk Insights | 🟢 Completed |
+| Energy Performance Analysis | Sydney Airport electricity demand and operational energy analysis case study | Operational Insights | 🟢 Completed |
+| Student Retention Modelling | Classification and clustering models for student performance analytics | Business Analytics | 🟢 Completed |
+| Car Price Prediction (Kaggle) | Regression and ensemble learning models for vehicle price prediction | Machine Learning | 🟢 Completed |
 ---
 
 ## 🎓 Education & Certifications  
