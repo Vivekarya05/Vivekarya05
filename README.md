@@ -42,9 +42,9 @@ My work combines **energy market understanding, data engineering, and machine le
 | 📌 Project | 🧠 Description | 🎯 Focus Area | 📊 Status |
 |----------|---------------|--------------|----------|
 | **NEM Market Price Drivers & Decision Intelligence System** | Integrated market intelligence platform combining price behaviour, demand, renewable impact, volatility, and trading analytics using AEMO NEM data | Energy Market Intelligence | 🟡 In Progress |
-| Market Fundamentals & Price Drivers | RRP analysis using demand, PV, supply imbalance | Price Formation | 🟡 In Progress |
-| Electricity Demand Forecasting | ARIMA → XGBoost → LSTM pipeline | Forecasting | 🟡 In Progress |
-| BESS Trading Strategy (D-1) | Price-based charge/discharge logic | Trading Analytics | 🟡 In Progress |
+| Market Fundamentals & Price Drivers | RRP analysis using demand, PV, supply imbalance | Price Formation |🟢 Completed |
+| Electricity Demand Forecasting | ARIMA → XGBoost → LSTM pipeline | Forecasting | 🟢 Completed |
+| BESS Trading Strategy (D-1) | Price-based charge/discharge logic | Trading Analytics |🟢 Completed |
 | Renewable Impact Analysis | Solar & wind impact on demand curves | Grid Behaviour | 🟡 In Progress |
 | Volatility & Risk Analysis | Price spikes and risk pattern detection | Risk Analytics | 🟡 In Progress |
 | AEMO NEMWeb Data Pipeline | Automated extraction, parsing, validation, and PostgreSQL loading of AEMO NEM market datasets | Data Engineering | 🟢 Completed |
