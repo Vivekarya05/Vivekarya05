@@ -62,24 +62,24 @@ An end-to-end forecasting pipeline linking demand, solar, intermittent generatio
 
 ## Experience
 
-**Research Assistant**, Transforming Energy Markets (TEM) Research Centre, Macquarie University · *Apr 2026 – Present*
+**Research Assistant**, Transforming Energy Markets (TEM) Research Centre, Macquarie University · *Mar 2026 – Present*
 - Maintain and update large-scale NEM market datasets using Python and SQL
 - Deliver custom data requests (extraction, filtering, validation) for researchers and stakeholders
 - Build Power BI dashboards supporting market research, modelling, and policy analysis
 - Apply data governance controls, including access management, audit trails, and policy compliance
 
-**Business Analyst – Finance & Engagement**, Western Sydney University · *Feb 2025 – May 2026*
+**Finance & Engagement Assistant**, Western Sydney University · *Mar 2025 – Apr 2026*
 - Designed and implemented an Asset Governance Plan covering ownership, data standards, and approval workflows
 - Led departmental asset management in Asset Tiger, including lifecycle tracking and cross-system data validation
 - Supported finance operations (Basware invoicing, TEMS claims, travel approvals) in line with university policy
 
-**Business Analyst – CRM & Operations**, CentraHub CRM · *Nov 2022 – Jun 2024*
+**ICT Business Analyst**, CentraHub · *Nov 2022 – Jun 2024*
 - Led CRM delivery for Power & Utility clients, tailoring outage-management and regulatory-compliance workflows
 - Automated resource allocation with JavaScript and SQL, reducing field response times by 35%
 - Built real-time dashboards and MIS reports tracking KPIs and operational schedules for executives
 - Facilitated UAT and change management with stakeholders across international regions
 
-**Senior Project Engineer – Energy Systems**, Indian Immunologicals Limited · *Sep 2020 – Dec 2022*
+**Senior Project Engineer – Energy Systems**, Indian Immunologicals Limited · *Sep 2020 – Nov 2022*
 - Optimised HVAC and chiller systems to improve energy efficiency and reduce operating costs
 - Led SCADA/PLC validation projects to 21 CFR Part 11 compliance
 - Drove digital reporting for utility data and energy audits
@@ -103,7 +103,7 @@ An end-to-end forecasting pipeline linking demand, solar, intermittent generatio
 ## Education & Certifications
 
 - **Master of Business Analytics**, Macquarie University (2024 – 2026)
-- **Postgraduate Diploma in Project Management**, Symbiosis International University (2021 – 2023)
+- **Postgraduate Diploma in Project Management**, Symbiosis College of Distance Learning (2024)
 - **B.Tech, Power Engineering**, GMR Institute of Technology (2015 – 2019)
 - **PLEXOS:** Fundamentals Certification · Modelling Power Systems Using PLEXOS Cloud
 - **AEMO:** NEM Foundations
