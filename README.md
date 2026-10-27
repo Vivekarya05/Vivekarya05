@@ -1,92 +1,112 @@
-# ⚡ Vivek Bharadwaj Aryasomayajula  
+# Vivek Bharadwaj Aryasomayajula
 
-### Energy Analytics | Market Modelling | Forecasting  
+**Business & Data Analyst · Energy Market Analytics (AEMO / NEM) · SQL · Python · Power BI**
 
----
+Turning electricity market data and business requirements into clear reporting, forecasting models, and decision-support tools.
 
-## 👋 About Me  
-
-I am an Energy Market Analyst focused on the Australian National Electricity Market (NEM), currently working as a Research Assistant at the Transforming Energy Markets (TEM) Research Centre.  
-
-My work combines **energy market understanding, data engineering, and machine learning** to build forecasting models, analyse price behaviour, and support decision-making.  
-
----
-
-## 💼 Professional Experience  
-
-**🔬 Research Assistant**  
-*Transforming Energy Markets (TEM) Research Centre | Mar 2026 – Present*  
-- Maintain and update large-scale electricity market datasets using Python & SQL  
-- Handle custom AEMO data requests (extraction, transformation, validation)  
-- Develop Power BI dashboards for market research and policy insights  
-- Ensure data governance, access control, and compliance  
-
-**💻 ICT Business Analyst**  
-*CentraHub Pvt Ltd | Nov 2022 – Jun 2024*  
-- Automated workflows using SQL, improving operational efficiency  
-- Built KPI dashboards across multiple regions  
-- Designed analytics-driven business processes  
-
-**⚙️ Senior Project Engineer – Energy Systems**  
-*Indian Immunologicals Pvt Ltd | Sep 2020 – Nov 2022*  
-- Optimised HVAC and energy systems for efficiency improvements  
-- Conducted performance analysis of industrial energy systems  
-- Worked with SCADA/PLC systems for monitoring and validation  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek--energy--analytics-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-energy-analytics)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vivekarya05.github.io-222?logo=githubpages&logoColor=white)](https://vivekarya05.github.io/Vivek_Profile/)
+[![Email](https://img.shields.io/badge/Email-vivek.aryasomayajula%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vivek.aryasomayajula@gmail.com)
+![Location](https://img.shields.io/badge/Sydney-Full%20AU%20work%20rights%20to%202029-555)
 
 ---
 
-## 🚀 Energy Analytics Portfolio  
+## About
 
-## 📂 Projects Portfolio
+I'm a Business and Data Analyst with 6+ years across enterprise systems, CRM/ERP delivery, and energy-sector analytics. I'm currently a Research Assistant at Macquarie University's **Transforming Energy Markets (TEM) Research Centre**, where I build AEMO data pipelines and Power BI dashboards for market research and policy.
 
-| 📌 Project | 🧠 Description | 🎯 Focus Area | 📊 Status |
-|----------|---------------|--------------|----------|
-| **NEM Market Price Drivers & Decision Intelligence System** | Integrated market intelligence platform combining price behaviour, demand, renewable impact, volatility, and trading analytics using AEMO NEM data | Energy Market Intelligence | 🟡 In Progress |
-| Market Fundamentals & Price Drivers | RRP analysis using demand, PV, supply imbalance | Price Formation |🟢 Completed |
-| Electricity Demand Forecasting | ARIMA → XGBoost → LSTM pipeline | Forecasting | 🟢 Completed |
-| BESS Trading Strategy (D-1) | Price-based charge/discharge logic | Trading Analytics |🟢 Completed |
-| Renewable Impact Analysis | Solar & wind impact on demand curves | Grid Behaviour | 🟡 In Progress |
-| Volatility & Risk Analysis | Price spikes and risk pattern detection | Risk Analytics | 🟡 In Progress |
-| AEMO NEMWeb Data Pipeline | Automated extraction, parsing, validation, and PostgreSQL loading of AEMO NEM market datasets | Data Engineering | 🟢 Completed |
-| **NEM Market Price Drivers & Decision Intelligence System** | Baseline analytics framework integrating forecasting, trading insights, renewable analysis, and market intelligence workflows | Energy Market Intelligence | 🟢 Completed (Baseline Version) |
-| Electricity Demand Forecasting (Baseline) | ARIMA & XGBoost demand forecasting models using AEMO operational demand data | Forecasting | 🟢 Completed |
-| Electricity Price Forecasting | LSTM-based electricity price prediction and temporal pattern analysis | Price Behaviour | 🟢 Completed |
-| Extreme Weather Market Analysis | Bushfire impact analysis on electricity demand, generation, and market behaviour | Risk Insights | 🟢 Completed |
-| Energy Performance Analysis | Sydney Airport electricity demand and operational energy analysis case study | Operational Insights | 🟢 Completed |
-| Student Retention Modelling | Classification and clustering models for student performance analytics | Business Analytics | 🟢 Completed |
-| Car Price Prediction (Kaggle) | Regression and ensemble learning models for vehicle price prediction | Machine Learning | 🟢 Completed |
----
+I bring together two skill sets:
+- **Business analysis.** Requirements gathering, stakeholder management, process improvement, UAT, and governance.
+- **Energy market analytics.** Dispatch pricing, network constraints, renewable integration, and BESS analysis on NEM data.
 
-## 🎓 Education & Certifications  
-
-- 🎓 Master of Business Analytics – Macquarie University  
-- ⚡ Bachelor of Power Engineering  
-- 📘 Australian Energy Market Operator (AEMO) – NEM Foundations Certification  
-- ⚙️ PLEXOS Cloud Modelling 
+Open to business analyst, data analyst, and energy market analyst roles in Sydney. Full Australian work rights to August 2029, no sponsorship required.
 
 ---
 
-## 🛠️ Technical Skills  
+## Featured Energy Projects
 
-**⚡ Energy Analytics**  
-AEMO NEM Data • RRP • Demand • PV • FCAS • Price Volatility  
+### [AEMO NEMWeb Market Data Pipeline](https://github.com/Vivekarya05/nemweb-etl-pipeline)
+A Flask app that downloads, cleans, validates, and loads AEMO NEMWeb datasets into PostgreSQL. It includes duplicate checks and live pipeline logs, and it is the data foundation for the projects below.
+`Python` `Flask` `PostgreSQL` `SQL` `ETL`
 
-**💻 Programming & Modelling**  
-Python (Pandas, NumPy, XGBoost, LSTM) • SQL  
+### [NEM Network Constraints & Price Divergence](https://github.com/Vivekarya05/nem-network-constraints-price-divergence) · [Live dashboard](https://vivekarya05.github.io/nem-network-constraints-price-divergence/)
+Analyses how binding network constraints and interconnector flows cause price spikes and NSW1–VIC1 price separation. Spikes are classified into demand-driven and constraint-driven events.
+`Python` `PostgreSQL` `Plotly` `Market Analytics`
 
-**📊 Data & Visualisation**  
-Power BI • Tableau • PostgreSQL  
+### [NEM Market Price Drivers](https://github.com/Vivekarya05/nem-market-price-drivers)
+Explains regional price behaviour using RRP, operational demand, rooftop PV, net demand, and ramping features. It classifies price spikes and negative-price intervals and produces Power BI-ready output tables.
+`Python` `Feature Engineering` `Power BI`
+
+### [NEM Spot Price Forecasting](https://github.com/Vivekarya05/spot_price_forcasting_NEM)
+An end-to-end forecasting pipeline linking demand, solar, intermittent generation, weather, and ramps to wholesale prices, with ML models compared on RMSE.
+`Python` `XGBoost` `LSTM` `Time Series`
+
+**More energy work:**
+[Generator Behaviour & Market Response](https://github.com/Vivekarya05/nem-generator-behaviour-market-response-intelligence) ·
+[BESS Day-Ahead Trading Strategy](https://github.com/Vivekarya05/bess_trading_assessment) ·
+[NSW Demand Patterns](https://github.com/Vivekarya05/nsw-demand-patterns-analysis) ·
+[Energy Reporting: Airports](https://github.com/Vivekarya05/Monthly-Energy-Reporting-Dashboarding_Airports) ·
+[Energy Reporting: Data Centres](https://github.com/Vivekarya05/Monthly-Energy-Reporting-Dashboarding_Data_Centers)
 
 ---
 
-## 📫 Contact  
+## Business Analysis Highlights
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vivek-energy-analytics  
-- 📧 Email: vivek.aryasomayajula@gmail.com  
-- 💻 GitHub: https://github.com/Vivekarya05  
+- **CRM delivery for Power & Utility clients (CentraHub).** Tailored outage-management and compliance workflows; JavaScript/SQL automation cut field response times for critical maintenance by **35%**.
+- **Asset Governance Plan (Western Sydney University).** Defined asset ownership, data standards, approval workflows, and audit controls to improve accountability and audit readiness.
+- **Executive KPI and MIS reporting.** Real-time dashboards tracking critical KPIs and operational schedules for leadership.
+- **Stakeholder and change management.** Ran UAT and change management for large-scale system rollouts across international regions.
+
 
 ---
 
-## ⚡ Closing Note  
+## Experience
 
-> Turning electricity market data into **forecasting models, trading insights, and decision-support systems**.
+**Research Assistant**, Transforming Energy Markets (TEM) Research Centre, Macquarie University · *Apr 2026 – Present*
+- Maintain and update large-scale NEM market datasets using Python and SQL
+- Deliver custom data requests (extraction, filtering, validation) for researchers and stakeholders
+- Build Power BI dashboards supporting market research, modelling, and policy analysis
+- Apply data governance controls, including access management, audit trails, and policy compliance
+
+**Business Analyst – Finance & Engagement**, Western Sydney University · *Feb 2025 – May 2026*
+- Designed and implemented an Asset Governance Plan covering ownership, data standards, and approval workflows
+- Led departmental asset management in Asset Tiger, including lifecycle tracking and cross-system data validation
+- Supported finance operations (Basware invoicing, TEMS claims, travel approvals) in line with university policy
+
+**Business Analyst – CRM & Operations**, CentraHub CRM · *Nov 2022 – Jun 2024*
+- Led CRM delivery for Power & Utility clients, tailoring outage-management and regulatory-compliance workflows
+- Automated resource allocation with JavaScript and SQL, reducing field response times by 35%
+- Built real-time dashboards and MIS reports tracking KPIs and operational schedules for executives
+- Facilitated UAT and change management with stakeholders across international regions
+
+**Senior Project Engineer – Energy Systems**, Indian Immunologicals Limited · *Sep 2020 – Dec 2022*
+- Optimised HVAC and chiller systems to improve energy efficiency and reduce operating costs
+- Led SCADA/PLC validation projects to 21 CFR Part 11 compliance
+- Drove digital reporting for utility data and energy audits
+
+*Earlier:* Energy Analyst Intern, GMR Kamalanga Energy (2018) · Analyst Intern, Bharat Dynamics (2017)
+
+---
+
+## Skills
+
+| Area | Tools & Topics |
+|---|---|
+| **Business Analysis** | Requirements gathering · Stakeholder management · UAT · Process improvement · Data governance · CRM/ERP |
+| **Energy Markets** | AEMO NEM data · Dispatch pricing · RRP · Rooftop PV · FCAS · Network constraints · BESS · PLEXOS |
+| **Data Engineering** | Python · SQL · PostgreSQL · ETL pipelines · Flask · JavaScript |
+| **ML & Forecasting** | Pandas · NumPy · XGBoost · LSTM · ARIMA |
+| **Visualisation** | Power BI · Tableau · Plotly |
+
+---
+
+## Education & Certifications
+
+- **Master of Business Analytics**, Macquarie University (2024 – 2026)
+- **Postgraduate Diploma in Project Management**, Symbiosis International University (2021 – 2023)
+- **B.Tech, Power Engineering**, GMR Institute of Technology (2015 – 2019)
+- **PLEXOS:** Fundamentals Certification · Modelling Power Systems Using PLEXOS Cloud
+- **AEMO:** NEM Foundations
+- Fundamentals of Global Energy Business · Excel Skills for Business
+
+**Awards:** Best Paper Presentation Award · Achievers Day Award (2018)
